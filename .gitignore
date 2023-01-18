@@ -1,6 +1,5 @@
 *.pyc
 db.sqlite3
-db.SQLITE3
 myvenv
 venv
 __pycache__
@@ -9,5 +8,6 @@ local_settings.py
 *~
 /static
 .DS_Store
+.idea 
 
 
